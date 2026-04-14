@@ -501,3 +501,8 @@ Join the community on [Discord](https://discord.gg/RySmvNF5kF).
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+If this saved you time or made your day a little better, consider sharing a coffee — and keep the ideas flowing.
+[konto.fkey.id](https://konto.fkey.id/)
